@@ -1,10 +1,10 @@
-# 🖩 Food Mania: Your Recipe Playground!🖩
+# 🖩 : Your Recipe Playground!🖩
 
 <div style="display: flex; justify-content: center;">
     <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/shoe_haven/main/assets/image/icon_1.jpg">
 </div>
 
-Get ready to tantalize your taste buds and unleash your inner chef with Food Mania, a recipe app built with love using Flutter! Immerse yourself in a world of culinary delights as you browse through our ever-growing collection of delicious dishes. Our user-friendly interface is meticulously designed to deliver an unparalleled cooking experience.  Intuitive navigation and mouthwatering visuals will guide you through every step, making recipe exploration a breeze. But Food Mania isn't just about following recipes, it's about creating a vibrant community of food lovers! We believe the kitchen is a place for connection and creativity, which is why our app is open for contributions. Whether you're a seasoned home cook or a curious culinary explorer, you can share your favorite recipes and inspire others with your unique creations.
+Welcome to our sleek and stylish shoe-buying app, built entirely with Flutter. Immerse yourself in a world of modern design and seamless animations as you browse through our collection of footwear. Our frontend is meticulously crafted to deliver an unparalleled user experience, with intuitive navigation and stunning visuals at every turn. But that's not all – we believe in the power of community, which is why our app is open for contributions. Whether you're a seasoned developer or just starting out, you can join us in shaping the future of footwear shopping. Let's build something extraordinary together.
 
 Let's build a recipe haven together!  Join Food Mania and be part of something extraordinary.
 
