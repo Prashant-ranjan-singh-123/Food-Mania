@@ -10,6 +10,7 @@ Get ready to tantalize your taste buds and unleash your inner chef with Food Man
 ## ⚫ App Screens ⚫
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Food-Mania/main/readme_images/image_0.png" style="width: 200px; margin: 10px;">
     <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Food-Mania/main/readme_images/image_1.png" style="width: 200px; margin: 10px;">
     <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Food-Mania/main/readme_images/image_2.png" style="width: 200px; margin: 10px;">
     <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Food-Mania/main/readme_images/image_3.png" style="width: 200px; margin: 10px;">
