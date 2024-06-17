@@ -10,19 +10,12 @@ Get ready to tantalize your taste buds and unleash your inner chef with Food Man
 ## ⚫ App Screens ⚫
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/shoe_haven/main/readme_stuff/1.png" style="width: 200px; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/shoe_haven/main/readme_stuff/2.png" style="width: 200px; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/shoe_haven/main/readme_stuff/3.png" style="width: 200px; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/shoe_haven/main/readme_stuff/4.png" style="width: 200px; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/shoe_haven/main/readme_stuff/5.png" style="width: 200px; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/shoe_haven/main/readme_stuff/6.png" style="width: 200px; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/shoe_haven/main/readme_stuff/7.png" style="width: 200px; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/shoe_haven/main/readme_stuff/8.png" style="width: 200px; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/shoe_haven/main/readme_stuff/9.png" style="width: 200px; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/shoe_haven/main/readme_stuff/10.png" style="width: 200px; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/shoe_haven/main/readme_stuff/11.png" style="width: 200px; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/shoe_haven/main/readme_stuff/12.png" style="width: 200px; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/shoe_haven/main/readme_stuff/13.png" style="width: 200px; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Food-Mania/main/readme_images/image_1.png" style="width: 200px; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Food-Mania/main/readme_images/image_2.png" style="width: 200px; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Food-Mania/main/readme_images/image_3.png" style="width: 200px; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Food-Mania/main/readme_images/image_4.png" style="width: 200px; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Food-Mania/main/readme_images/image_5.png" style="width: 200px; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Food-Mania/main/readme_images/image_6.png" style="width: 200px; margin: 10px;">
 </div>
 
 ## 🙋 Support
