@@ -29,7 +29,7 @@ class HeaderWidget extends StatelessWidget {
                 ),
                 children: [
                   TextSpan(
-                    text: "Flutter Boy!",
+                    text: "Prashant Singh!",
                     style: TextStyle(
                       fontWeight: FontWeight.normal,
                       fontSize: 22,
@@ -42,7 +42,7 @@ class HeaderWidget extends StatelessWidget {
             const Padding(
               padding: EdgeInsets.only(top: 8),
               child: Text(
-                "Check for latest addition",
+                "Check Out Latest Dishes",
                 style: TextStyle(
                   fontWeight: FontWeight.w600,
                   fontSize: 14,
@@ -52,15 +52,18 @@ class HeaderWidget extends StatelessWidget {
             )
           ],
         ),
-        Container(
-          height: 52,
-          width: 52,
-          decoration: const BoxDecoration(
-            color: Colors.white,
-            shape: BoxShape.circle,
-          ),
-          child: UiConstants.image(
-            path: ImagePath.flutterBoy,
+        ClipRRect(
+          borderRadius: BorderRadius.circular(26),
+          child: Container(
+            height: 52,
+            width: 52,
+            decoration: const BoxDecoration(
+              color: Colors.white,
+              shape: BoxShape.circle,
+            ),
+            child: UiConstants.image(
+              path: ImagePath.prashant_image,
+            ),
           ),
         ),
       ],

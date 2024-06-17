@@ -42,7 +42,7 @@ class FiltersWidget extends StatelessWidget {
                           borderRadius: BorderRadius.circular(16),
                         ),
                         child: Center(
-                          child: UiConstants.image(
+                          child: UiConstants.image_filter(
                             path: FiltersData.listOfFilters[index].icon,
                           ),
                         ),

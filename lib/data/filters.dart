@@ -3,9 +3,9 @@ import 'package:animated_movies_app/model/filters_model.dart';
 
 class FiltersData {
   static List<FilterModel> listOfFilters = [
-    FilterModel(name: "Genre", icon: ImagePath.genreIcon),
-    FilterModel(name: "Top IMDB", icon: ImagePath.starIcon),
-    FilterModel(name: "Language", icon: ImagePath.globeIcon),
-    FilterModel(name: "Watched", icon: ImagePath.movieReelIcon),
+    FilterModel(name: "Spicy", icon: ImagePath.genreIcon),
+    FilterModel(name: "Sweet", icon: ImagePath.starIcon),
+    FilterModel(name: "Savory", icon: ImagePath.globeIcon),
+    FilterModel(name: "Crispy", icon: ImagePath.movieReelIcon),
   ];
 }

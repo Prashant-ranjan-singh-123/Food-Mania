@@ -1,5 +1,6 @@
 import 'package:animated_movies_app/screens/splash_screen/splash_screen.dart';
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class App extends StatelessWidget {
@@ -7,8 +8,8 @@ class App extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Flutter Boy',
+    return GetMaterialApp(
+      title: 'Food Mania',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.purple,
