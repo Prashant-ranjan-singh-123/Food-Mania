@@ -1,4 +1,4 @@
-# 🖩 : Your Recipe Playground!🖩
+# 🖩 ShoeHaven : Your Shoe Store!🖩
 
 <div style="display: flex; justify-content: center;">
     <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/shoe_haven/main/assets/image/icon_1.jpg">
