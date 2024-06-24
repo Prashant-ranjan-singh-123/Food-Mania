@@ -1,6 +1,6 @@
 <div align="center">
 <br>
-<img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Food-Mania/main/assets/icons/app_icon.png" width="200" />
+<img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Food-Mania/main/readme_images/icon.png" width="200" />
 
 </div>
 
