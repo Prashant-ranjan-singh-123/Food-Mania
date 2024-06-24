@@ -1,4 +1,4 @@
-package com.example.animated_movies_app
+package com.prashant.foodmania.project
 
 import io.flutter.embedding.android.FlutterActivity
 
