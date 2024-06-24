@@ -37,16 +37,17 @@
 <br>
 
 ## Download 🔥
-[<img src="https://raw.githubusercontent.com/flocke/andOTP/master/assets/badges/get-it-on-github.png" alt="Get it on Releases" height="80">](https://github.com/Prashant-ranjan-singh-123/shoe_haven/releases/download/apk-02/ShoeHaven.apk)
+[<img src="https://raw.githubusercontent.com/flocke/andOTP/master/assets/badges/get-it-on-github.png" alt="Get it on Releases" height="80">](https://github.com/Prashant-ranjan-singh-123/Food-Mania/releases/download/apk-01/Food.Mania.apk)
 <a href="https://apt.izzysoft.de/fdroid/index/apk/ru.aleshin.timeplanner" target="_blank">
 
 ## What you get by this app
 - Onboarding Screen UI
 - Amazing Animation Ideas
-- Store Application Listing UI
+- Food Store Application Listing UI
 - Profile UI
 - Detailed Item UI
-- Added to Cart Screen
+- Added to Cart Screen UI
+- Highly Customisable
 
 ## Technologies stack 🚀
 - Clean Architecture 🏛️
