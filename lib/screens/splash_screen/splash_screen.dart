@@ -27,7 +27,7 @@ class _SplashScreenState extends State<SplashScreen> {
   // Navigating to Onboarding screen automatically after 2 seconds
   _navigateToOnboardingScreen() {
     Future.delayed(const Duration(seconds: 3), () {
-      Get.off(OnboardingScreen(), transition: Transition.fade, duration: 1000.ms, curve: Curves.decelerate);
+      Get.off(const OnboardingScreen(), transition: Transition.fade, duration: 1000.ms, curve: Curves.decelerate);
     });
   }
 
@@ -50,7 +50,7 @@ class _SplashScreenState extends State<SplashScreen> {
                   width: 200, height: 200,
                   child: ClipRRect(
                       borderRadius: BorderRadius.circular(12),
-                      child: Image.asset(ImagePath.app_icon, color: Color.fromRGBO(245, 241, 220, 1),)))
+                      child: Image.asset(ImagePath.app_icon, color: const Color.fromRGBO(245, 241, 220, 1),)))
                   .animate()
                   .fadeIn(duration: 2000.ms)
                   .slideY(duration: 1000.ms, curve: Curves.decelerate),
@@ -64,7 +64,7 @@ class _SplashScreenState extends State<SplashScreen> {
               style: GoogleFonts.dancingScript(
                   fontWeight: FontWeight.w200,
                   fontSize: 40,
-                  color: Color.fromRGBO(245, 241, 220, 1)),
+                  color: const Color.fromRGBO(245, 241, 220, 1)),
             ).animate()
                 .fadeIn(duration: 1500.ms, delay: 500.ms).scaleY(
                 duration: 1000.ms, curve: Curves.decelerate
