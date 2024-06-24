@@ -11,12 +11,12 @@ class MessageScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.white,
-      body: Container(
-        width: Get.width,
-        height: Get.height,
-        decoration: UiConstants.backgroundGradient,
-        child: SafeArea(
+      backgroundColor: const Color.fromRGBO(72, 19, 103, 1.0),
+      body: SingleChildScrollView(
+        child: Container(
+          width: Get.width,
+          height: Get.height,
+          decoration: UiConstants.backgroundGradient,
           child: Center(
             child: Padding(
               padding: const EdgeInsets.symmetric(horizontal: 15),
@@ -24,8 +24,8 @@ class MessageScreen extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   SizedBox(
-                    width: 250,
-                    height: 250,
+                    width: UiConstants.returnSmallerWidthOrHeight()*0.5,
+                    height: UiConstants.returnSmallerWidthOrHeight()*0.5,
                     child: Image.asset('assets/icons/no_message.png').animate()
                         .fadeIn(duration: 2000.ms)
                         .slideY(duration: 1000.ms, curve: Curves.decelerate),

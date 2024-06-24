@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
+import 'package:get/get.dart';
 
 // Constants that has been used across the screens
 class UiConstants {
@@ -38,6 +39,14 @@ class UiConstants {
       height: height,
       width: width,
       color: Colors.white,
-    );;
+    );
+  }
+
+  static double returnSmallerWidthOrHeight(){
+    if(Get.width>Get.height){
+      return Get.height;
+    }else{
+      return Get.width;
+    }
   }
 }
