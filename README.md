@@ -14,16 +14,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Prashant-ranjan-singh-123/shoe_haven/releases"><img src="https://img.shields.io/github/v/release/Prashant-ranjan-singh-123/shoe_haven?color=purple&include_prereleases&logo=github&style=for-the-badge"/></a>
-  <a href="https://github.com/Prashant-ranjan-singh-123/shoe_haven/stargazers"><img src="https://img.shields.io/github/stars/Prashant-ranjan-singh-123/shoe_haven?color=ffff00&style=for-the-badge"/></a>
-  <a href="https://github.com/Prashant-ranjan-singh-123/shoe_haven/network/members"><img src="https://img.shields.io/github/forks/Prashant-ranjan-singh-123/shoe_haven?style=for-the-badge"/></a>
-  <a href="https://hits.sh/github.com/Prashant-ranjan-singh-123/shoe_haven/"><img alt="Hits" src="https://hits.sh/github.com/Prashant-ranjan-singh-123/shoe_haven.svg?style=for-the-badge&label=Views&extraCount=10&color=54856b"/></a>
+  <a href="https://github.com/Prashant-ranjan-singh-123/Food-Mania/releases"><img src="https://img.shields.io/github/v/release/Prashant-ranjan-singh-123/Food-Mania?color=purple&include_prereleases&logo=github&style=for-the-badge"/></a>
+  <a href="https://github.com/Prashant-ranjan-singh-123/Food-Mania/stargazers"><img src="https://img.shields.io/github/stars/Prashant-ranjan-singh-123/Food-Mania?color=ffff00&style=for-the-badge"/></a>
+  <a href="https://github.com/Prashant-ranjan-singh-123/Food-Mania/network/members"><img src="https://img.shields.io/github/forks/Prashant-ranjan-singh-123/Food-Mania?style=for-the-badge"/></a>
+  <a href="https://hits.sh/github.com/Prashant-ranjan-singh-123/Food-Mania/"><img alt="Hits" src="https://hits.sh/github.com/Prashant-ranjan-singh-123/Food-Mania.svg?style=for-the-badge&label=Views&extraCount=10&color=54856b"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Prashant-ranjan-singh-123/shoe_haven/releases"><img src="https://img.shields.io/github/downloads/Prashant-ranjan-singh-123/shoe_haven/total?color=orange&style=for-the-badge"/></a>
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Prashant-ranjan-singh-123/shoe_haven?style=for-the-badge&color=ggff20">
-  <a href="https://github.com/Prashant-ranjan-singh-123/shoe_haven/graphs/contributors"><img src="https://img.shields.io/github/contributors-anon/Prashant-ranjan-singh-123/shoe_haven?style=for-the-badge&color=ccdd56"/></a>
+  <a href="https://github.com/Prashant-ranjan-singh-123/Food-Mania/releases"><img src="https://img.shields.io/github/downloads/Prashant-ranjan-singh-123/Food-Mania/total?color=orange&style=for-the-badge"/></a>
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Prashant-ranjan-singh-123/Food-Mania?style=for-the-badge&color=ggff20">
+  <a href="https://github.com/Prashant-ranjan-singh-123/Food-Mania/graphs/contributors"><img src="https://img.shields.io/github/contributors-anon/Prashant-ranjan-singh-123/Food-Mania?style=for-the-badge&color=ccdd56"/></a>
 </p>
 
 <br>
@@ -166,8 +166,8 @@ SOFTWARE.
 
 ## 👨‍💻 Contributors
 
-<a href='https://github.com/Prashant-ranjan-singh-123/flutter-Unwrapped/graphs/contributors'>
-  <img src='https://contrib.rocks/image?repo=Prashant-ranjan-singh-123/flutter-Unwrapped' />
+<a href='https://github.com/Prashant-ranjan-singh-123/Food-Mania/graphs/contributors'>
+  <img src='https://contrib.rocks/image?repo=Prashant-ranjan-singh-123/Food-Mania' />
 </a>
 
 </div>
