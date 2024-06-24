@@ -80,7 +80,7 @@ https://flutter.dev/
 
 2. Fetch latest source code from master branch.
 ```
-git clone https://github.com/Prashant-ranjan-singh-123/shoe_haven.git
+git clone https://github.com/Prashant-ranjan-singh-123/Food-Mania.git
 ```
 
 3. Download Dependency:
@@ -97,15 +97,16 @@ flutter run
 
 ## TODO
 
-- [ ] Getx State Management
-- [ ] Add Native Splash Screen
-- [ ] Choice Best Icons From any package.
-- [ ] Add Documentation
+- [ ] Add Documentation.
+- [ ] Add Supabase Backend.
+- [ ] Add Google SignIn & Gmail SignIn.
+- [ ] Make Profile Screen UI.
+- [ ] Add Native Splash Screen.
+- [ ] Getx State Management.
 - [ ] Like Item should go to Favourite Page.
 - [ ] Perseverant Favourite Page Item.
-- [ ] Make Model of Data and use that Model.
-
-  <br>
+  
+<br>
 
 ## Contributing
 
@@ -168,6 +169,8 @@ SOFTWARE.
 <a href='https://github.com/Prashant-ranjan-singh-123/flutter-Unwrapped/graphs/contributors'>
   <img src='https://contrib.rocks/image?repo=Prashant-ranjan-singh-123/flutter-Unwrapped' />
 </a>
+
+</div>
 
 ## 🙋 Support
 
