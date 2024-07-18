@@ -34,7 +34,7 @@ class OnboardingScreen extends StatelessWidget {
               ).animate()
                   .scale(
                   delay: 400.ms, duration: 500.ms, curve: Curves.decelerate)
-                  .desaturate(
+                  .fadeIn(
                   delay: 400.ms,
                   duration: 1000.ms,
                   curve: Curves.decelerate),
@@ -85,7 +85,7 @@ class OnboardingScreen extends StatelessWidget {
               const Padding(
                 padding: EdgeInsets.only(top: 18),
                 child: Text(
-                  "Where Every food Finds chief",
+                  "All you need in one place",
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     fontWeight: FontWeight.normal,
