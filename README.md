@@ -2,7 +2,6 @@
 <div align="center">
 <br>
 <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Food-Mania/main/readme_images/icon.png" width="200" />
-  
 </div>
 
 <h1 align="center">Food Mania</h1>
